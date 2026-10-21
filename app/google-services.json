@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599523482743",
+    "project_id": "campusconnect-nmims",
+    "storage_bucket": "campusconnect-nmims.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599523482743:android:d574ce54536be92918ba72",
+        "android_client_info": {
+          "package_name": "com.example.campusconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTLrK5fSDrik3_2IfseRPgBlzGmebtypI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

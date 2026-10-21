@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Campus Connect Network Lines -->
+    <path
+        android:pathData="M38,73 L54,64 L70,73"
+        android:strokeWidth="2.5"
+        android:strokeColor="#7CA8FA"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M54,64 L54,61"
+        android:strokeWidth="2.5"
+        android:strokeColor="#7CA8FA"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Network Nodes (Interconnected Campus Community) -->
+    <!-- Left Node (Emerald) -->
+    <path
+        android:fillColor="#4DB6A4"
+        android:pathData="M38,69.5 A3.5,3.5 0 1,0 38,76.5 A3.5,3.5 0 1,0 38,69.5" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,71.5 A1.5,1.5 0 1,0 38,74.5 A1.5,1.5 0 1,0 38,71.5" />
+
+    <!-- Right Node (Coral) -->
+    <path
+        android:fillColor="#E07A5F"
+        android:pathData="M70,69.5 A3.5,3.5 0 1,0 70,76.5 A3.5,3.5 0 1,0 70,69.5" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,71.5 A1.5,1.5 0 1,0 70,74.5 A1.5,1.5 0 1,0 70,71.5" />
+
+    <!-- Center Node (Rich Gold) -->
+    <path
+        android:fillColor="#E8C170"
+        android:pathData="M54,59.5 A4.5,4.5 0 1,0 54,68.5 A4.5,4.5 0 1,0 54,59.5" />
+    <path
+        android:fillColor="#0D1B2E"
+        android:pathData="M54,61.8 A2.2,2.2 0 1,0 54,66.2 A2.2,2.2 0 1,0 54,61.8" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,63 A1,1 0 1,0 54,65 A1,1 0 1,0 54,63" />
+
+    <!-- Graduation Cap: Skullcap base -->
+    <path
+        android:fillColor="#DFE5EE"
+        android:pathData="M40,47 L40,53 C40,57.5 46.5,61 54,61 C61.5,61 68,57.5 68,53 L68,47 C64,49.8 59,51.2 54,51.2 C49,51.2 44,49.8 40,47 Z" />
+
+    <!-- Graduation Cap: Top Diamond -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 L76,43 L54,52 L32,43 Z" />
+
+    <!-- Top Cap Button / Pivot -->
+    <path
+        android:fillColor="#F0C97D"
+        android:pathData="M54,41.5 A1.5,1.5 0 1,0 54,44.5 A1.5,1.5 0 1,0 54,41.5" />
+
+    <!-- Cap Tassel (Gold cord & brush) -->
+    <path
+        android:pathData="M54,43 Q67,42 74,48 L75,56"
+        android:strokeWidth="1.8"
+        android:strokeColor="#F0C97D"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:fillColor="#F0C97D"
+        android:pathData="M73,56 L77,56 L76,61 L74,61 Z" />
+</vector>
