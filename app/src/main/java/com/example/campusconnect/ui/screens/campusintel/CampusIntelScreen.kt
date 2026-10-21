@@ -1,3 +1,7 @@
+/**
+ * CampusConnect - Academic & Collaboration Module
+ * Contributed by: Diya Ponda (Member 2)
+ */
 package com.example.campusconnect.ui.screens.campusintel
 
 import android.app.Application
